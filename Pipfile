@@ -8,6 +8,8 @@ jupyter = "*"
 bs4 = "*"
 requests = "*"
 selenium = "*"
+pandas = "*"
+googlemaps = "*"
 
 [dev-packages]
 

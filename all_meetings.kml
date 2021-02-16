@@ -1,0 +1,2993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>meetings, Feb-16-2021</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>    <Placemark>
+      <name>1st Things 1st AFG</name>
+      <description><![CDATA[Monday 06:00 PM<br>Cornerstone Community Church<br>5732 Olson Rd, Ferndale WA 98248<br>Room #1<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30720445]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6380172,48.8488217,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>3RD PLACE LITERATURE STUDY AFG</name>
+      <description><![CDATA[Monday 04:30 PM<br>Lake Forest Park Presbyterian<br>17440 Brookside Blvd NE, Lake Forest Park WA 98155<br>Enter through parking lot<br>Families, Friends, and Observers Welcome<br>Group Id:30518096]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2861782,47.7560285,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>ADULT CHILDREN AFG</name>
+      <description><![CDATA[Wednesday 05:30 PM<br>First United Methodist Church<br>621 Tacoma Ave S, Tacoma WA 98402<br>Lower level parking lot, entry behind church<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Adult Children<br>Group Id:30588866]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4451586,47.2574215,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>ALDERWOOD AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Maplewood Presbyterian Church<br>19523 84th Ave W, Edmonds WA 98026<br>Families, Friends, and Observers Welcome<br>Group Id:30623421]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3461183,47.8221846,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>ANACORTES AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>Westminster Presbyterian Church<br>1300 9th St, Anacortes WA 98221<br>Use entrance on M Avenue<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:51471]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6179585,48.5153915,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>ANACORTES MEN'S AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Westminster Presbyterian Church<br>1300 9th St, Anacortes WA 98221<br>Use m avenue door<br>Families and Friends Only<br>Men<br>Group Id:30609499]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6178940,48.5152551,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>ARLINGTON TUESDAY AFG</name>
+      <description><![CDATA[Tuesday 07:30 PM<br>Immaculate Conception Hall<br>1200 E 5th St, Arlington WA 98223<br>Meets in basement<br>Families, Friends, and Observers Welcome<br>Group Id:14108]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1141632,48.1964520,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>ATTITUDE TO GRATITUDE AFG</name>
+      <description><![CDATA[Tuesday 12:00 PM<br>Bethlehem Lutheran Church<br>1006 Wicker Rd., Sedro Woolley WA 98284<br>Families, Friends, and Observers Welcome<br>Group Id:14340]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2236898,48.5075934,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>AUBURN FRIDAY MORNING AFG</name>
+      <description><![CDATA[Friday 10:30 AM<br>Zion Lutheran Church<br>1305 17th St SE, Auburn WA 98002<br>Handicap Access<br>Families and Friends Only<br>Beginners<br>Group Id:23848]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2126657,47.2942694,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>AUBURN SUNDAY NIGHT AFG</name>
+      <description><![CDATA[Sunday 07:30 PM<br>Holy Family Catholic Church<br>505 17th St SE, Auburn WA 98002<br>Enter through main church entrance on 17th st se<br>Handicap Access<br>Families and Friends Only<br>Beginners<br>Group Id:14111]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2230502,47.2939655,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>AUBURN WEDNESDAY NIGHT AFG</name>
+      <description><![CDATA[Wednesday 07:30 PM<br>Zion Lutheran Church<br>1305 17th St SE, Auburn WA 98002<br>Handicap Access<br>Families and Friends Only<br>Beginners<br>Group Id:14109]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2127922,47.2943198,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>AWARENESS NEWCOMERS AFG</name>
+      <description><![CDATA[Saturday 07:30 PM<br>Peace Health Education Center<br>600 NE 92nd Ave, Vancouver WA 98664<br>Room 5. education center. entrance left of main hospital entrance. "If meeting not in Room 5, please check bulletin board at entrance, for Room number".<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14404]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5799444,45.6246815,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>BACK TO BASICS POULSBO AFG</name>
+      <description><![CDATA[Wednesday 12:00 PM<br>First Lutheran Church<br>18920 4th Ave NE, Poulsbo WA 98370<br>Upstairs<br>Families, Friends, and Observers Welcome<br>Group Id:502578]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6435964,47.7338348,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>BAINBRIDGE SUNDAY MORNING STEP STUDY AFG</name>
+      <description><![CDATA[Sunday 10:00 AM<br>Helpline House<br>282 Knechtel Way NE, Bainbridge Island WA 98110<br>Community room<br>Families and Friends Only<br>Group Id:49016]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5189693,47.6310622,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>BALLARD SUNDAY NITE AFG</name>
+      <description><![CDATA[Sunday 07:00 PM<br>St Paul's United Church<br>6512 12th Ave NW, Seattle WA 98117<br>Families, Friends, and Observers Welcome<br>Group Id:14300]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3716436,47.6761322,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>BELLEVUE LAKE HILLS AFG</name>
+      <description><![CDATA[Thursday 07:30 PM<br>St Andrews Church<br>2650 148th Ave SE, Bellevue WA 98007<br>Alateen at same location<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14118]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1421644,47.5858055,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>BLAINE SERENITY AFG</name>
+      <description><![CDATA[Monday 12:00 PM<br>Free Church Unitarian<br>1218 Harrison Ave., Blaine WA 98230<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:501896]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.7460959,48.9883341,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>BOTHELL MONDAY NIGHT AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Parkridge Community Church<br>3805 Maltby Rd, Bothell WA 98012<br>Behind church in annex building<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:30631777]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1818408,47.8134086,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>BOTHELL MONDAY STUDY AFG</name>
+      <description><![CDATA[Monday 12:30 PM<br>Emmanuel Presbyterian Church<br>19540 104th Ave NE, Bothell WA 98011<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:31186]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2004288,47.7701196,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>BOTHELL SUNDAY NIGHT AFG</name>
+      <description><![CDATA[Sunday 07:00 PM<br>Bothell First Lutheran Church<br>10207 NE 183rd St, Bothell WA 98011<br>Fragrance Free<br>Families, Friends, and Observers Welcome<br>Group Id:41890]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2034618,47.7609298,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>BOTHELL TUESDAY NITERS AFG</name>
+      <description><![CDATA[Tuesday 07:15 PM<br>Eastside Four Square Church<br>14520 100th Ave NE, Bothell WA 98011<br>Handicap Access & Child Care<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:14130]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2063058,47.7336204,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>BUCKLEY AFG</name>
+      <description><![CDATA[Friday 07:30 PM<br>Community Presbyterian Church<br>152 S Cottage St, Buckley WA 98321<br>Families, Friends, and Observers Welcome<br>Group Id:14136]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.0266592,47.1619810,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>BURIEN FRIDAY NIGHT AFG</name>
+      <description><![CDATA[Friday 07:30 PM<br>St. Elizabeths Episcopal Church<br>1005 SW 152nd St, Burien WA 98166<br>Meets in the fireside room<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14302]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3476839,47.4666228,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>BURIEN TURNING POINT AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>St Elizabeth Episcopal Church<br>1005 SW 152nd St, Burien WA 98166<br>Meeting in room next to library<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:49260]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3476784,47.4664696,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>CAPITOL HILL AFG</name>
+      <description><![CDATA[Monday 12:00 PM<br>St Marks Cathedral<br>1245 10th Ave E, Seattle WA 98102<br>Use administration office entrance. meets in second floor conference room. On holidays meets at All Pilgrims Church, entrance on 10th Ave.<br>Families, Friends, and Observers Welcome<br>Group Id:64446]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3213074,47.6319402,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>CARE DEEPLY AFG</name>
+      <description><![CDATA[Thursday 05:30 PM<br>First Congregational Church<br>2401 Cornwall Ave, Bellingham WA 98225<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:49485]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4756773,48.7617048,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>CHANGING ATTITUDES AFG</name>
+      <description><![CDATA[Saturday 09:00 AM<br>Wayside Church Of Christ<br>2000 SW Dash Point Rd, Federal Way WA 98023<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:53678]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3602268,47.3216347,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>CHECK IT OUT AFG</name>
+      <description><![CDATA[Wednesday 10:30 AM<br>Word Of Life Church<br>9028 51st Ave NE, Marysville WA 98270<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:63459]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1627322,48.0779784,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>CHOOSING TO CHANGE AFG</name>
+      <description><![CDATA[Thursday 10:30 AM<br>Church Of The Good Shepherd<br>805 SE Ellsworth, Vancouver WA 98664<br>Church office building. room h<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30660974]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5606442,45.6153193,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>CIRCLE OF HOPE AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Finn Hall ( The Back Room)<br>10411 234th Ave E, Buckley WA 98321<br>Handicap Access<br>Families and Friends Only<br>Group Id:30525519]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1168258,47.1618489,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>CLARKSTON ROUNDTABLE AFG</name>
+      <description><![CDATA[Friday 07:00 PM<br>Clarkston Presbyterian Church<br>1122 Diagonal St, Clarkston WA 99403<br>Families, Friends, and Observers Welcome<br>Group Id:14149]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.0528903,46.4117253,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>COAL CREEK SOUTH BELLEVUE AFG</name>
+      <description><![CDATA[Monday 07:30 PM<br>Newport Covenant Church<br>12800 SE Coal Creek Pkwy, Bellevue WA 98006<br>First Floor,Main Church<br>Families and Friends Only<br>Group Id:33387]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1698660,47.5642783,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>COLVILLE COURAGE TO CHANGE AFG</name>
+      <description><![CDATA[Thursday 06:00 PM<br>Williamson Consulting<br>270 S Main St, Colville WA 99114<br>Park in back lot, use back door, if locked - knock.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:501382]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.9061226,48.5427003,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>COME AS YOU ARE AFG</name>
+      <description><![CDATA[Thursday 06:00 PM<br>First Presbyterian Church<br>172 Ivy St SE, Ephrata WA 98823<br>Look for al-anon sign<br>Families, Friends, and Observers Welcome<br>Group Id:30550666]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -119.5381383,47.3150879,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>COURAGE STRENGTH AND INSPIRATION AFG</name>
+      <description><![CDATA[Saturday 12:00 PM<br>Gloria Dei Lutheran Church<br>3315 South 19th Street, Tacoma WA 98405<br>Use backside of Church, follow Al-Anon Signs to "Fireside" room<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30626104]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4801879,47.2431453,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>COURAGE TO CHANGE AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Mount Baker Park Presbyterian Church<br>3201 Hunter Blvd S, Seattle WA 98144<br>Families, Friends, and Observers Welcome<br>Group Id:62852]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2854692,47.5750062,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>COURAGE TO CHANGE AFG</name>
+      <description><![CDATA[Sunday 06:00 PM<br>Camano Lutheran Church<br>850 Heichel Road, Camano Island WA 98282<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:66480]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4386427,48.2418466,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Candlelight Unity AFG</name>
+      <description><![CDATA[Thursday 06:00 PM<br>1414 Club<br>1414 12th Ave, Longview WA 98632<br>Families and Friends Only<br>Group Id:14207]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.9320501,46.1385217,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Cedar River AFG</name>
+      <description><![CDATA[Tuesday 06:00 PM<br>Carco Theatre<br>1717 Maple Valley Hwy, Renton WA 98057<br>Handicap Access<br>Families and Friends Only<br>Group Id:30748153]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1970673,47.4806555,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Cle Elum AFG</name>
+      <description><![CDATA[Saturday 10:00 AM<br>Cle Elum Community Church<br>201 E 3rd St, Cle Elum WA 98922<br>Families, Friends, and Observers Welcome<br>Group Id:30701396]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.9355740,47.1966969,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Coming Together For Help AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>Trinity Lutheran Church<br>12115 Park Ave S, Tacoma WA 98444<br>In between two buildings- to the right. Follow "Al-Anon" signs.<br>Families, Friends, and Observers Welcome<br>Group Id:30715759]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4386634,47.1472816,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Courage to Change AFG</name>
+      <description><![CDATA[Friday 06:00 PM<br>St. John's Episcopal Church<br>105 State Street, Kirkland WA 98033<br>Meeting room entrance located on parking lot side of the church<br>Families, Friends, and Observers Welcome<br>Group Id:30731298]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2029372,47.6746476,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Courage to Changers AFG</name>
+      <description><![CDATA[Monday 12:00 PM/Friday 12:00 PM<br>First Christian Church<br>701 Franklin St SE, Olympia WA 98501<br>Handicap Access<br>Families and Friends Only<br>Group Id:14259]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.8992361,47.0422981,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>DAFFODIL VALLEY AFG</name>
+      <description><![CDATA[Wednesday 10:30 AM<br>First Christian Church<br>432 Wood Ave, Sumner WA 98390<br>Handicap Access<br>Families and Friends Only<br>Group Id:501515]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2330233,47.1975775,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>DENNY PARK FAMILY AFG</name>
+      <description><![CDATA[Tuesday 07:30 PM<br>Denny Park Lutheran Church<br>766 John St, Seattle WA 98109<br>Ring bell.<br>Families, Friends, and Observers Welcome<br>Group Id:27198]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3414306,47.6199683,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>DISCOVERING CHOICES AFG</name>
+      <description><![CDATA[Thursday 06:30 PM<br>Dungeness Valley Lutheran Church<br>925 N Sequim Ave, Sequim WA 98382<br>Meet in parish house<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30534906]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.1035041,48.0922030,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>DISCOVERING CHOICES AFG</name>
+      <description><![CDATA[Wednesday 12:00 PM<br>First United Methodist Church<br>210 Ruby St., Ellensburg WA 98926<br>Room 3<br>Families, Friends, and Observers Welcome<br>Group Id:503755]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.5440122,46.9906975,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Detaching With Love AFG</name>
+      <description><![CDATA[Wednesday 06:30 PM<br>St.John's Cathedral<br>127 E 12th Ave, Spokane WA 99202<br>Parents Focus group. Guild Rooms, One block East of Grand on 12th. Use East entrance through the kitchen. Parking available.<br>Handicap Access<br>Families and Friends Only<br>Group Id:30680775]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4097477,47.6451213,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Door to Hope AFG</name>
+      <description><![CDATA[Monday 05:30 PM<br>Grace Of Christ Presbyterian Church<br>9 S 8th Ave, Yakima WA 98902<br>Meet in Adult Ed Room in hall South of main office<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:502215]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.5193515,46.5986981,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>EASTSIDE PARENTS AFG</name>
+      <description><![CDATA[Thursday 07:30 PM<br>Faith United Methodist Church<br>3924 Issaquah Pine Lake Rd SE, Issaquah WA 98029<br>Families, Friends, and Observers Welcome<br>Parents<br>Group Id:30522678]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.0210791,47.5739403,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>EASY DOES IT AFG</name>
+      <description><![CDATA[Monday 10:00 AM<br>St Phillips Episcopal Church<br>4312 84th St NE, Marysville WA 98270<br>Handicap Access & Child Care & Fragrance Free<br>Families, Friends, and Observers Welcome<br>Group Id:26821]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1728386,48.0715178,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>EDMONDS AFG</name>
+      <description><![CDATA[Tuesday 07:30 PM<br>Edmonds United Methodist Church<br>828 Caspers St., Edmonds WA 98020<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:500668]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3690334,47.8169654,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>ENUMCLAW SUNDAY NITE AFG</name>
+      <description><![CDATA[Sunday 06:00 PM<br>Hillside Community Church<br>24015 SE 436 Th Way, Enumclaw WA 98022<br>Basement of church<br>Handicap Access<br>Families and Friends Only<br>Beginners<br>Group Id:53679]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.0212476,47.2084830,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>EVERGREEN AFG</name>
+      <description><![CDATA[Monday 10:00 AM<br>Garden St Methodist Church<br>1326 N Garden St, Bellingham WA 98225<br>Downstairs, on your right in the library.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14123]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4734725,48.7476392,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>EXPECT A MIRACLE AFG</name>
+      <description><![CDATA[Saturday 10:00 AM<br>Kent United Methodist Church<br>11010 SE 248th St, Kent WA 98030<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14216]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1937157,47.3811974,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>EXPERIENCE STRENGTH AND HOPE AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Fairwood Community United Methodist Church<br>15255 SE Fairwood Blvd, Renton WA 98058<br>Benedict hall, building to left of main sanctuary; classroom #4<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:30519364]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1362785,47.4472829,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>EXPERIENCE STRENGTH AND HOPE AFG</name>
+      <description><![CDATA[Saturday 12:00 PM<br>First Congregational Church<br>73 S Palouse St, Walla Walla WA 99362<br>Upstairs<br>Families, Friends, and Observers Welcome<br>Group Id:66288]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -118.3329830,46.0677958,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Eye Opener AFG</name>
+      <description><![CDATA[Friday 10:00 AM<br>First Church Of God<br>1251 Main Ave, Morton WA 98356<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30584923]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2955242,46.5639603,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FAMILIES IN RECOVERY AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>Sound Life Church<br>101 Corin Ave SW, Orting WA 98360<br>Al-Anon meets upstairs Concurrent AA meets downstairs<br>Families, Friends, and Observers Welcome<br>Group Id:30575304]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2053897,47.0965586,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FAMILY AND FRIENDS AFG</name>
+      <description><![CDATA[Saturday 09:00 AM<br>Wesley United Methodist Church<br>14 N 48th Ave, Yakima WA 98908<br>South entrance. basement<br>Families, Friends, and Observers Welcome<br>Group Id:66721]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.5731266,46.5970669,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FELLOWSHIP IN UNITY AFG</name>
+      <description><![CDATA[Tuesday 06:00 PM<br>Unity Center<br>800 S Pearl St, Centralia WA 98531<br>Meeting held upstairs<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30631714]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.9585258,46.7086184,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FERNDALE FRIDAY AFG</name>
+      <description><![CDATA[Friday 06:00 PM<br>London Health Center<br>2376 Main St, Ferndale WA 98248<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30637560]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6107981,48.8485826,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FOCUS ON GRATITUDE AFG</name>
+      <description><![CDATA[Thursday 07:00 AM<br>Seattle University Student Center<br>901 12th Ave, Seattle WA 98122<br>1st floor, room 122, the jolly room, street parking.<br>Fragrance Free<br>Families, Friends, and Observers Welcome<br>Group Id:30503143]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3168894,47.6071333,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FORKS TIMBER AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>Forks Congregational Church<br>280 S Spartan Ave, Forks WA 98331<br>Use side door. east c st entrance<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14191]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -124.3847798,47.9481999,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FORTALEZA EXPERIENCIA Y ESPERANZA GFA</name>
+      <description><![CDATA[Monday 12:00 PM<br>The Lutheran Church Of The Good Shepherd<br>1601 North Street SE, Olympia WA 98501<br>Shepherd’s corner<br>Families, Friends, and Observers Welcome<br>Group Id:30651906]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.8798548,47.0159813,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FREEDOM AFG</name>
+      <description><![CDATA[Saturday 08:30 AM<br>Our Savior Lutheran Church<br>4519 112th St E, Tacoma WA 98446<br>Meeting is in a small yellow hourse at the back of the church property<br>Families and Friends Only<br>Beginners<br>Group Id:42147]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3678314,47.1554979,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FREEDOM FOCUS AFG</name>
+      <description><![CDATA[Monday 06:30 PM/Monday 07:00 PM<br>Faith Community Fellowship<br>1427 Monte Vista Dr, Mount Vernon WA 98273<br>Located in the Youth Annex<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:63994]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2797072,48.4341112,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FREEDOM SERENITY AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>Community United Methodist Church<br>130 Church Ln, Port Hadlock WA 98339<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:65643]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.7604112,48.0272403,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FREELAND FREE TO CHANGE AFG</name>
+      <description><![CDATA[Friday 07:00 PM<br>Trinity Lutheran Church<br>1460 E Hwy 525, Freeland WA 98249<br>Handicap Access<br>Families and Friends Only<br>Group Id:49461]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5147959,48.0090614,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FREMONT AFG</name>
+      <description><![CDATA[Thursday 07:30 PM<br>Fremont Baptist Church<br>717 N 36th St, Seattle WA 98103<br>Families, Friends, and Observers Welcome<br>Group Id:30580844]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3491029,47.6509665,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FRIDAY NIGHT LIGHTS AFG</name>
+      <description><![CDATA[Friday 06:00 PM<br>St John's Cathedral<br>127 E 12th Ave, Spokane WA 99202<br>Please use east/kitchen entrance<br>Handicap Access<br>Families and Friends Only<br>Group Id:30520192]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4095733,47.6449809,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FRIDAY NOON AFG</name>
+      <description><![CDATA[Friday 12:00 PM<br>Boy Scout Building<br>8478 W Gage Blvd, Kennewick WA 99336<br>Upstairs<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:14210]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -119.2343980,46.2274121,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FRIDAY NOONERS AFG</name>
+      <description><![CDATA[Friday 12:00 PM<br>St Andrews Lutheran Church<br>2650 148th Ave SE, Bellevue WA 98007<br>Families, Friends, and Observers Welcome<br>Group Id:30546400]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1422377,47.5858074,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FRIENDS AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>North Seattle Friends Church<br>7736 24th Ave NE, Seattle WA 98115<br>Side building north of the church<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:30611010]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3015671,47.6859707,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FRIENDS IN LACEY AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>St Mark's Lutheran Church<br>2109 College St SE, Lacey WA 98503<br>Park in back - look for "Clean Kids" sign<br>Families and Friends Only<br>Group Id:14260]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.8242327,47.0281605,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>FROM SURVIVAL TO RECOVERY AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>Port Townsend Community Center<br>620 Tyler St, Port Townsend WA 98368<br>Main door.down hall to end.turn left.first room on right.<br>Handicap Access & Fragrance Free<br>Families, Friends, and Observers Welcome<br>Adult Children<br>Group Id:30579612]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.7597092,48.1173731,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Fourth Step AFG</name>
+      <description><![CDATA[Monday 12:00 PM<br>Parrish House, Dungeness Valley Lutheran Church<br>925 N. Sequim Ave, Sequim WA 98382<br>Fragrance Free<br>Families, Friends, and Observers Welcome<br>Group Id:30715488]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.1034198,48.0920365,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Friday Al-Anooners AFG</name>
+      <description><![CDATA[Friday 12:00 PM<br>Bethany Lutheran Church<br>7968 Finch Rd NE, Bainbridge Island WA 98110<br>Social Hall<br>Handicap Access & Fragrance Free<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:65350]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5360576,47.6353595,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Friday Night LGBTQ AFG</name>
+      <description><![CDATA[Friday 08:00 PM<br>Peer Seatle<br>1520 Bellevue Ave Suite 100, Seattle WA 98112<br>Handicap Access<br>Families and Friends Only<br>LGBT<br>Group Id:14299]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3266933,47.6147871,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>GATEWAY TO SERENITY AFG</name>
+      <description><![CDATA[Sunday 07:00 PM<br>Camas Friends Church<br>1004 NE 4th Ave, Camas WA 98607<br>Families, Friends, and Observers Welcome<br>Group Id:30546267]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3985656,45.5884318,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>GET A LIFE AFG</name>
+      <description><![CDATA[Friday 07:00 PM<br>Longview Presbyterian Church<br>3808 Pennsylvania St, Longview WA 98632<br>Upstairs<br>Families, Friends, and Observers Welcome<br>Group Id:10153429]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.9752710,46.1647970,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>GIG HARBOR AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Harbor Life Church<br>4417 56th St NW, Gig Harbor WA 98335<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14193]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5984914,47.3098766,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>GLENEDEN TUESDAY NIGHT AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>Covenant United Methodist Church<br>15515 N Gleneden St, Spokane WA 99208<br>Room 12<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:51728]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4050180,47.7988106,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>GRANITE FALLS AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Gencare Granite Falls At The Village<br>302 N Alder Ave, Granite Falls WA 98252<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30555915]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -121.9650768,48.0849381,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Get a Life AFG</name>
+      <description><![CDATA[Monday 06:00 PM/Wednesday 07:00 PM<br>East Campus Community Hospital<br>1006 N H St, Aberdeen WA 98520<br>East campus. conference room d<br>Families, Friends, and Observers Welcome<br>East campus<br>Families, Friends, and Observers Welcome<br>Group Id:53659]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.8204535,46.9813303,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Gratitude Group AFG</name>
+      <description><![CDATA[Wednesday 10:00 AM<br>Beautiful Savior Lutheran Church<br>12513 SE Mill Plain Blvd, Vancouver WA 98684<br>Families, Friends, and Observers Welcome<br>Group Id:14412]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5434756,45.6192961,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>HAPPY HOUR AFG</name>
+      <description><![CDATA[Tuesday 05:30 PM<br>St James Presbyterian Church<br>910 14th St, Bellingham WA 98225<br>Handicap Access & Child Care<br>Families, Friends, and Observers Welcome<br>Group Id:47279]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5003063,48.7250689,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>HAVEN OF HOPE AFG</name>
+      <description><![CDATA[Monday 07:30 PM/Wednesday 01:30 PM<br>42nd House<br>42 NE Old Belfair Hwy, Belfair WA 98528<br>42nd house, al-anon room.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:41641]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.8270983,47.4546890,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>HAZEL DELL AFG</name>
+      <description><![CDATA[Thursday 07:15 PM<br>Messiah Lutheran Church<br>905 NW 94th St, Vancouver WA 98665<br>Handicap Access<br>Families and Friends Only<br>Group Id:14408]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6808551,45.6892225,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>HEAR SPEAKER MEETING AFG</name>
+      <description><![CDATA[Saturday 07:30 PM<br>Hillside Church<br>930 E James St, Kent WA 98031<br>Meeting 3rd saturday of every month only<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30507169]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2218815,47.3861959,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>HIGHLAND TUESDAY AFG</name>
+      <description><![CDATA[Tuesday 10:00 AM<br>St. Dunstan's Episcopal Church<br>722 N 145th St, Shoreline WA 98133<br>Handicap Access & Child Care<br>Families and Friends Only<br>Beginners<br>Group Id:14311]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3494004,47.7349095,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>HIGHLANDS FRIDAY AM AFG</name>
+      <description><![CDATA[Friday 10:00 AM<br>St Dunstan's Episcopal Church<br>722 N 145th St, Shoreline WA 98133<br>Use back entrance<br>Families, Friends, and Observers Welcome<br>Group Id:32362]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3496418,47.7347990,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>HOME AFG</name>
+      <description><![CDATA[Friday 07:00 PM<br>Advent Lutheran Church<br>4300 132nd St SE, Mill Creek WA 98012<br>Building A<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:66661]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1742846,47.8778510,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>HOPE AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Battle Ground Senior Center<br>116 NE 3rd Ave, Battle Ground WA 98604<br>Families, Friends, and Observers Welcome<br>Group Id:14114]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5350189,45.7823333,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>HOPE FOR TODAY AFG</name>
+      <description><![CDATA[Monday 07:00 AM/Wednesday 07:00 AM/Friday 07:00 AM<br>St. Paul's United Church<br>6512 12th Ave NW, Seattle WA 98117<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:502461]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3715602,47.6762686,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>HOPE HOUSE AFG</name>
+      <description><![CDATA[Sunday 06:00 PM<br>Hope House First Presbyterian Church<br>125 Central Ave E, Tenino WA 98589<br>Families, Friends, and Observers Welcome<br>Group Id:30528760]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.8373789,46.8585623,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>HOPE ON HWY 9 AFG</name>
+      <description><![CDATA[Friday 07:30 PM<br>Calvary Chapel<br>9428 4th St SE, Lake Stevens WA 98258<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30508970]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1038857,47.9920458,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>HUGS R US AFG</name>
+      <description><![CDATA[Sunday 06:00 PM<br>Daybreak<br>628 S Cowley St, Spokane WA 99202<br>Basement entrance lower level parking<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:47219]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4085659,47.6502164,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Happy Our Program Exists AFG</name>
+      <description><![CDATA[Tuesday 06:30 PM<br>Mossyrock Grange<br>152 Isbell Road, Mossyrock WA 98564<br>Families, Friends, and Observers Welcome<br>Group Id:30715774]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4914753,46.5244869,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Hope AFG</name>
+      <description><![CDATA[Friday 12:00 PM<br>Dungeness Valley Lutheran Church<br>925 N Sequim Ave, Sequim WA 98382<br>Temporary electronic meeting available during Covid-19 pandemic ; phone meeting through Conference Call: 1-425-436-6260 Access code 680 9054. Physica instructions: Located in the the Parrish House<br>Families, Friends, and Observers Welcome<br>Group Id:30714837]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.1034416,48.0920793,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Hope For Today AFG</name>
+      <description><![CDATA[Wednesday 06:30 PM<br>Central Lutheran Church<br>512 S Bernard St, Spokane WA 99204<br>Use office door off parking lot<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Adult Children<br>Group Id:39398]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4170303,47.6511887,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Hope Love Compassion AFG</name>
+      <description><![CDATA[Tuesday 05:30 PM<br>Redeemer Lutheran Church<br>7001 Princeton St, Fircrest WA 98466<br>Enter through double doors at end of courtyard<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30577905]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5129362,47.2397136,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Hopeful Solutions AFG</name>
+      <description><![CDATA[Tuesday 10:00 AM<br>Millwood Presbyterian Church<br>3223 N Marguerite Rd, Spokane Valley WA 99212<br>Southwest corner enter on Euclid St.<br>Handicap Access<br>Families and Friends Only<br>Group Id:30626737]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.2858246,47.6865583,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>How Important Is It Women's AFG</name>
+      <description><![CDATA[Saturday 10:30 AM<br>Queen Anne Lutheran Church<br>2400 8th Ave W, Seattle WA 98119<br>Use mcgraw street entrance only<br>Families, Friends, and Observers Welcome<br>Women<br>Group Id:30578357]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3673808,47.6399702,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>INTO ACTION AFG</name>
+      <description><![CDATA[Sunday 07:30 PM<br>Advent Lutheran Church<br>13009 E Broadway Ave, Spokane Valley WA 99216<br>Aa meeting at same time<br>Handicap Access<br>Families and Friends Only<br>Group Id:53701]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.2297140,47.6646473,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>ISSAQUAH DAY AFG</name>
+      <description><![CDATA[Thursday 10:00 AM<br>Our Savior Lutheran Church<br>745 Front St S, Issaquah WA 98027<br>Families, Friends, and Observers Welcome<br>Group Id:14204]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.0352669,47.5220977,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Intimacy And Relationships Womens AFG</name>
+      <description><![CDATA[Friday 07:00 PM<br>Redeemer Lutheran Church<br>1001 Princeton St, Fircrest WA 98466<br>Families and Friends Only<br>Women<br>Group Id:30714333]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5165886,47.2398480,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>JUST FOR TODAY AFG</name>
+      <description><![CDATA[Saturday 10:30 AM<br>Lake Stevens First Baptist<br>1702 Main St, Lake Stevens WA 98258<br>Families, Friends, and Observers Welcome<br>Group Id:26212]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.0646204,48.0133068,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>JUST FOR TODAY AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Brooklake Community Church<br>629 S 356th St, Federal Way WA 98003<br>Aa meeting at the same time<br>Families, Friends, and Observers Welcome<br>Group Id:30512114]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3255974,47.2820545,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Just For Today AFG</name>
+      <description><![CDATA[Thursday 05:30 PM<br>Fircrest Redeemer Lutheran<br>1001 Princeton St, Fircrest WA 98466<br>Families and Friends Only<br>Group Id:64345]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5162983,47.2399880,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Just For Today AFG</name>
+      <description><![CDATA[Monday 07:30 PM<br>Gloria Dei Lutheran Church<br>1515 Harrison Ave NW, Olympia WA 98502<br>Families, Friends, and Observers Welcome<br>Group Id:26328]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.9207341,47.0454749,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Just for Today AFG</name>
+      <description><![CDATA[Tuesday 06:30 PM<br>St Luke's Episcopal Church<br>525 N 5th Ave, Sequim WA 98382<br>Park in lot behind the church. Enter on South side of the building down the wheelchair path<br>Handicap Access & Fragrance Free<br>Families, Friends, and Observers Welcome<br>Group Id:51248]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.1143668,48.0840585,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>KEEP IT LIGHT CANDLE LIGHT MEETING AFG</name>
+      <description><![CDATA[Thursday 01:00 PM<br>Skamania County Public Utilities<br>1492 Wind River Hwy, Carson WA 98610<br>Inside Public Meeting Room<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:30642066]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -121.8197583,45.7329997,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>KEEP IT SIMPLE AFG</name>
+      <description><![CDATA[Monday 12:00 PM<br>First Baptist Church<br>105 W 6th St, Port Angeles WA 98362<br>Handicap Access & Fragrance Free<br>Families, Friends, and Observers Welcome<br>Group Id:64889]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.4375226,48.1149616,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>KEEP IT SIMPLE MEN'S WEDNESDAY NIGHT AFG</name>
+      <description><![CDATA[Wednesday 06:00 PM<br>Port Townsend Community Center<br>620 Tyler St, Port Townsend WA 98368<br>Main entrance, go down hall to the end, turn left, meeting on the right after the stairway<br>Handicap Access & Fragrance Free<br>Families, Friends, and Observers Welcome<br>Men<br>Group Id:30654260]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.7596513,48.1172783,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>KENT ALL MENS AFG</name>
+      <description><![CDATA[Friday 07:30 PM<br>Church Of The Holy Spirit<br>310 3rd Ave S, Kent WA 98032<br>Has separate outside entrance, in library<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Men Beginners<br>Group Id:14217]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2358180,47.3793268,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>KEYS TO SANITY AFG</name>
+      <description><![CDATA[Monday 05:00 PM<br>Key Center Fire Station<br>8911 Key Peninsula Hwy N, Lakebay WA 98349<br>Conference room, south side.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30524494]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.7463721,47.3388274,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>KIRKLAND THURSDAY MORNING AFG</name>
+      <description><![CDATA[Thursday 10:00 AM<br>Seventh Day Adventist Church<br>6400 108th Ave NE, Kirkland WA 98033<br>Handicap Access<br>Families and Friends Only<br>Beginners<br>Group Id:14223]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1954545,47.6645503,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>KIRKLAND TUESDAY AFTERNOON AFG</name>
+      <description><![CDATA[Tuesday 12:30 PM<br>Kirkland Congregational Church<br>106 5th Ave, Kirkland WA 98033<br>Room 21, 2nd floor of church<br>Families, Friends, and Observers Welcome<br>Group Id:44099]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2079454,47.6791736,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LAKE CITY MONDAY NIGHT AFG</name>
+      <description><![CDATA[Monday 07:30 PM<br>Lake City Presbyterian Church<br>3841 NE 123rd St, Seattle WA 98125<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:44358]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2858288,47.7170113,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LAKE STEVENS STUDY WRITE AND SHARE AFG</name>
+      <description><![CDATA[Monday 07:30 PM<br>Lake Stevens First Baptist Church<br>1702 Main St, Lake Stevens WA 98258<br>Families, Friends, and Observers Welcome<br>Group Id:63713]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.0645564,48.0131006,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LANGLEY AFG</name>
+      <description><![CDATA[Wednesday 09:30 AM<br>432 Hall<br>432 2nd St, Langley WA 98260<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30548664]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4119727,48.0399789,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LET GO AND LET GOD AFG</name>
+      <description><![CDATA[Friday 07:00 PM<br>Okanogan United Methodist Church<br>231 3rd Ave S, Okanogan WA 98840<br>Handicap Access<br>Families and Friends Only<br>Group Id:64681]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -119.5826038,48.3633437,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LET IT BEGIN WITH ME AFG</name>
+      <description><![CDATA[Wednesday 01:30 PM<br>Highline United Methodist Church<br>13015 1st Ave S, Burien WA 98168<br>Use side entrance,basement.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30600898]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3343273,47.4862941,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LET IT BEGIN WITH ME AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>First Lutheran Church<br>18920 4th Ave, Poulsbo WA 98370<br>Families, Friends, and Observers Welcome<br>Group Id:30612713]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6437490,47.7339020,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LET IT BEGIN WITH ME AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Cascade View Presbyterian Church<br>1030 E Casino Rd, Everett WA 98203<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:49775]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2188651,47.9238031,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LITERATURE FOR PROGRESS AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>First Presbyterian Church<br>1307 E 3rd Ave, Ellensburg WA 98926<br>Families and Friends Only<br>Group Id:30611015]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.5262849,46.9953077,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LIVING FREE AFG</name>
+      <description><![CDATA[Sunday 06:30 PM<br>First Presbyterian Church<br>412 W Pioneer, Puyallup WA 98371<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:41911]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2982864,47.1901758,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LIVING IN THE SOLUTION AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Holy Spirit Lutheran Church<br>10021 NE 124th St, Kirkland WA 98034<br>Lower fellowship hall; use north end ramp to lower level<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:49784]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2065813,47.7106866,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LOST AND FOUND AFG</name>
+      <description><![CDATA[Tuesday 05:30 PM<br>Oak Harbor Lutheran Church<br>1253 NW 2nd Avenue, Oak Harbor WA 98277<br>Use back entrance<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14250]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6732375,48.2999946,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LUNCH BUNCH AFG</name>
+      <description><![CDATA[Friday 12:00 PM<br>Vineyard Church<br>221 E Martin Luther King Jr Blvd, Yakima WA 98901<br>South entrance,upstairs<br>Handicap Access<br>Families and Friends Only<br>Group Id:29903]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.5048764,46.6056080,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>LYNDEN AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Lynden Community Center<br>401 Grover St, Lynden WA 98264<br>Enter door from corner 4th street.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30638919]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4526481,48.9437603,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Lois's Girls AFG</name>
+      <description><![CDATA[Friday 11:30 AM<br>Highland Park United Methodist Church<br>611 S Garfield Street, Spokane WA 99202<br>Shimada Lounge<br>Families and Friends Only<br>Women<br>Group Id:30726618]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.3974773,47.6505473,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MADISON MADRONA AFG</name>
+      <description><![CDATA[Thursday 07:30 PM<br>Epiphany Church Parish Hall<br>1805 38th Ave, Seattle WA 98122<br>Upstairs<br>Families, Friends, and Observers Welcome<br>Group Id:46407]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2857812,47.6180884,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MAGNOLIA MONDAY NITE FIRESIDE AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Magnolia United Church Of Christ<br>3555 W McGraw St, Seattle WA 98199<br>Families, Friends, and Observers Welcome<br>Group Id:63177]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4035156,47.6390951,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MAPLE VALLEY WEDNESDAY NIGHT AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Light Of Life Lutheran Church<br>28585 216th Ave SE, Covington WA 98042<br>First portable<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:62618]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.0543631,47.3452898,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MEADOWDALE AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>St Hilda St Patrick Episcopal Church<br>15224 52nd Ave W, Edmonds WA 98026<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:49029]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3040543,47.8601381,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MESH 2ND SATURDAY SPEAKER AFG</name>
+      <description><![CDATA[Saturday 07:30 PM<br>St David Emmanuel Episcopal Church<br>18842 Meridian Ave N, Shoreline WA 98133<br>Second saturday of month only<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:503944]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3344031,47.7666357,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MIDDAY AFG</name>
+      <description><![CDATA[Wednesday 10:30 AM/Wednesday 12:00 PM<br>First Congregational Church<br>2401 Cornwall Ave, Bellingham WA 98225<br>Fireplace Room, 2nd Floor, via Office door facing parking lot. Study Group Meeting<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Fireplace Room, 2nd Floor, via Office door facing parking lot<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:46645]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4753475,48.7617623,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MIDWEEK MEN'S AFG</name>
+      <description><![CDATA[Wednesday 07:30 PM<br>Salt House Church<br>11920 NE 80th St, Kirkland WA 98033<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Men Beginners<br>Group Id:53963]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1810483,47.6758511,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MILL CREEK STUDY WRITE AND SHARE AFG</name>
+      <description><![CDATA[Thursday 11:00 AM<br>Mill Creek Presbyterian Church<br>621 164th St SE, Mill Creek WA 98012<br>Back door<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:54484]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2236693,47.8503606,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MIRACLES IN HILLYARD AFG</name>
+      <description><![CDATA[Wednesday 01:30 PM<br>Saint Peter's Lutheran Church Meeting House<br>4620 N Regal St, Spokane WA 99207<br>The meeting is in TAN/RED house on Wellesley Ave east of the church.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30673637]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.3677508,47.7003660,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MONDAY MEN'S MEETING</name>
+      <description><![CDATA[Monday 07:00 PM<br>Southwest Medical Center<br>600 NE 92nd Ave, Vancouver WA 98664<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Men<br>Group Id:500465]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5798502,45.6245143,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MONDAY MORNING JUMP START AFG</name>
+      <description><![CDATA[Monday 10:30 AM<br>Zion Lutheran Church<br>1305 17th St SE, Auburn WA 98002<br>Handicap Access<br>Families and Friends Only<br>Beginners<br>Group Id:63297]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2127006,47.2942857,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MONDAY NIGHT REALITY CHECK AFG</name>
+      <description><![CDATA[Monday 06:00 PM<br>Grace And Truth Community Church<br>1301 Bombing Range Rd, West Richland WA 99353<br>Meeting held in lobby<br>Handicap Access<br>Families and Friends Only<br>Group Id:500479]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -119.3512067,46.2884500,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MONDAY NIGHT SERENITY AFG</name>
+      <description><![CDATA[Monday 07:30 PM<br>Saint Barnabas Episcopal<br>1187 Wyatt Way NW, Bainbridge Island WA 98110<br>End of hall in the right. 1st floor<br>Fragrance Free<br>Families, Friends, and Observers Welcome<br>Group Id:53810]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5354914,47.6284107,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MONDAY NIGHT WOMEN'S AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Alano Club<br>1700 W 7th Ave, Spokane WA 99204<br>Families, Friends, and Observers Welcome<br>Women<br>Group Id:30587884]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4373475,47.6495458,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MONDAY NOON LITERATURE STUDY AFG</name>
+      <description><![CDATA[Monday 12:00 PM<br>St Davids Episcopal Church<br>760 Park St, Friday Harbor WA 98250<br>Teen room<br>Handicap Access<br>Families and Friends Only<br>Group Id:39254]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.0258889,48.5347541,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MONDAY NOON STUDY GROUP AFG</name>
+      <description><![CDATA[Monday 12:00 PM<br>Bremerton United Methodist Church<br>1150 Marine Drive, Bremerton WA 98312<br>Families, Friends, and Observers Welcome<br>Group Id:30517382]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6649575,47.5726870,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MONDAY NOONERS AFG</name>
+      <description><![CDATA[Monday 12:00 PM<br>Saint Andrews Lutheran Church<br>2650 148th Ave SE, Bellevue WA 98007<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:30520789]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1420863,47.5859505,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MONROE SULTAN AFG</name>
+      <description><![CDATA[Monday 07:30 PM<br>St Mary Of The Valley Church<br>601 W Columbia St, Monroe WA 98272<br>Beginners welcome<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14241]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -121.9834464,47.8563604,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>MOVING ON AFG</name>
+      <description><![CDATA[Sunday 06:30 PM<br>Memorial Hospital<br>2811 Tieton Dr, Yakima WA 98902<br>Classroom a<br>Families and Friends Only<br>Group Id:50382]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.5479367,46.5936779,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Meeker AFG</name>
+      <description><![CDATA[Sunday 03:00 PM<br>Meeker Hall<br>207 W. Stewart, Puyallup WA 98372<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30715852]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2955745,47.1934014,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Milton Monday Night AFG</name>
+      <description><![CDATA[Monday 06:00 PM<br>Mission Woods Church<br>2003 Taylor St, Milton WA 98354<br>Temporary electronic meeting available during COVID-19 pandemic: zoom; ID 238 691 2781 pswd HOPE Mission Wood Church. off Taylor in Milton follow signs.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30681798]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3082808,47.2424095,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Monday Noon Step Study Meeting AFG</name>
+      <description><![CDATA[Monday 12:00 PM<br>First Congregational United Church Of Christ<br>2401 Cornwall Ave., Bellingham WA 98225<br>Families and Friends Only<br>Group Id:30727862]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4754847,48.7616163,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Monday at a Time AFG</name>
+      <description><![CDATA[Monday 01:30 PM<br>Highline United Methodist Church<br>13015 1st Ave S, Burien WA 98168<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30597929]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3342267,47.4863324,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NARROWS AFG</name>
+      <description><![CDATA[Tuesday 07:45 PM<br>Redeemer Luthersan Church<br>1001 Princeton St, Fircrest WA 98466<br>Near Regents and Alameda, follow signs upstairs to library<br>Families and Friends Only<br>Group Id:14384]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5164941,47.2399901,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NEW ATTITUDES AFG</name>
+      <description><![CDATA[Thursday 07:00 PM/Monday 06:00 PM/Sunday 06:30 PM<br>Yelm United Methodist Church<br>408 2nd St SE, Yelm WA 98597<br>Families, Friends, and Observers Welcome<br>Group Id:52679]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6082025,46.9384623,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NEW BEGINNINGS AFG</name>
+      <description><![CDATA[Monday 07:30 PM<br>St Benedicts Episcopal Church<br>910 Bowker St SE, Lacey WA 98503<br>Families, Friends, and Observers Welcome<br>Group Id:46371]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.8087502,47.0388109,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NEW BEGINNINGS AFG</name>
+      <description><![CDATA[Friday 08:00 PM<br>Marysville School Dist Admin Bldg Ctr<br>4220 80th St NE, Marysville WA 98270<br>Strawberry room 42 ; use west side door; aa same time<br>Handicap Access<br>Families and Friends Only<br>Group Id:14238]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1733097,48.0677247,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NEW BEGINNINGS AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>St Rose Catholic Church<br>701 26th Ave, Longview WA 98632<br>Father mulligan hall<br>Families, Friends, and Observers Welcome<br>Group Id:27883]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.9542954,46.1325717,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NEW DAY AFG</name>
+      <description><![CDATA[Friday 01:30 PM<br>Golden Sands<br>21608 O Ln, Ocean Park WA 98640<br>Meeting room<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30569955]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -124.0508761,46.4583526,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NEW FREEDOM MONDAY NIGHT AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Mukilteo Presbyterian Church<br>4514 84th St SW, Mukilteo WA 98275<br>Administration portable<br>Families and Friends Only<br>Group Id:14177]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2950578,47.9215057,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NEW HOPE AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Cascades Presbyterian Church<br>9503 NE 86th St, Vancouver WA 98662<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:46090]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5750764,45.6838290,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NEW HORIZONS AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>Tolt Congregational Church<br>4851 Tolt Ave, Carnation WA 98014<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:30537397]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -121.9128635,47.6505667,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NEW LIFE AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>United Lutheran Church<br>1231 S 76th St, Tacoma WA 98408<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:43158]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4519789,47.1887845,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NEW LIFE AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>St Timothy's Episcopal Church<br>4105 Richey Rd, Yakima WA 98908<br>Families and Friends Only<br>Beginners<br>Group Id:26066]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.5638445,46.6049427,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NEWPORT STUDY AFG</name>
+      <description><![CDATA[Wednesday 08:00 PM<br>St Margaret's Episcopal Church<br>4228 Factoria Blvd SE, Bellevue WA 98006<br>Follow signs to meeting room in basement<br>Handicap Access<br>Families and Friends Only<br>Group Id:14122]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1688833,47.5686675,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>NORTH END MEN'S AFG</name>
+      <description><![CDATA[Tuesday 07:30 PM<br>Emmanuel Episcopal Church<br>18842 Meridian Ave N, Shoreline WA 98133<br>Families and Friends Only<br>Men<br>Group Id:500659]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3345600,47.7667273,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>No Expectations Women's AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>St. Paul's United Methodist Church<br>6512 12th Ave NW, Seattle WA 98117<br>Families, Friends, and Observers Welcome<br>Group Id:30731356]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3718262,47.6760849,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>OK AFG</name>
+      <description><![CDATA[Friday 06:30 PM<br>Rushton Farm<br>26905 Orting Kapowsin Hwy E, Graham WA 98338<br>Book study meeting. back door<br>Families, Friends, and Observers Welcome<br>Group Id:504116]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2457942,47.0119362,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>ONE DAY AT A TIME AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Stanwood Senior Center<br>7430 276th St NW, Stanwood WA 98292<br>Families, Friends, and Observers Welcome<br>Group Id:30528516]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3333491,48.2460647,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>OPENING OUR HEARTS AFG</name>
+      <description><![CDATA[Tuesday 07:00 AM<br>St Therese Parish House<br>3416 E Marion St, Seattle WA 98122<br>Parish house is across the street from church in the building on the SE corner of 35th E and E Marion St.<br>Families and Friends Only<br>Group Id:30614923]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2886338,47.6105890,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>ORCAS ISLAND FAMILY AFG</name>
+      <description><![CDATA[Monday 07:00 PM/Thursday 05:30 PM<br>Emmanuel Episcopal Parish<br>242 Main St, Eastsound WA 98245<br>Benson Hall. Enter to right, up ramp and down the hall to the left.<br>Families, Friends, and Observers Welcome<br>Group Id:53732]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.9071428,48.6944770,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>One Day At A Time AFG</name>
+      <description><![CDATA[Sunday 04:00 PM<br>Parish Hall, Dungeness Valley Lutheran Church<br>925 N Sequim Ave, Sequim WA 98382<br>Fragrance Free<br>Families, Friends, and Observers Welcome<br>Group Id:30727539]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.1032339,48.0922384,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>One Day At A Time AFG</name>
+      <description><![CDATA[Saturday 10:00 AM<br>United Way Office<br>105 S. Mission, Wenatchee WA 98801<br>This meeting meets on the first and third Saturday of the Month only.<br>Families, Friends, and Observers Welcome<br>Group Id:30715790]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.3112605,47.4228004,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>PARENTS FOR SERENITY AFG</name>
+      <description><![CDATA[Monday 07:30 PM<br>Holy Trinity Lutheran Church<br>8501 SE 40th St, Mercer Island WA 98040<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Parents Beginners<br>Group Id:61342]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2249088,47.5741777,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>PATH OF HOPE AFG</name>
+      <description><![CDATA[Tuesday 12:00 PM<br>Christian Fellowship Church<br>630 Cemetery Rd, Winlock WA 98596<br>Located in youth annex. park in back.<br>Handicap Access<br>Families and Friends Only<br>Group Id:28220]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.9247606,46.4868198,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>PATHS TO RECOVERY AFG</name>
+      <description><![CDATA[Saturday 10:30 AM<br>St Aidens Episcopal Church<br>1318 Washington 532, Camano Island WA 98282<br>Families, Friends, and Observers Welcome<br>Group Id:30620733]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4108757,48.2389229,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>PATHS TO RECOVERY AFG</name>
+      <description><![CDATA[Thursday 05:30 PM<br>Cashmere Presbyterian Church<br>303 Maple St, Cashmere WA 98815<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30517203]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.4656803,47.5225480,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>PATHWAYS TO RECOVERY STEP STUDY AFG</name>
+      <description><![CDATA[Sunday 12:00 PM<br>Seattle University Student Center<br>901 12th Ave, Seattle WA 98122<br>1st floor, room #122<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30536933]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3171055,47.6069912,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>PEACE OF THE PROGRAM AFG</name>
+      <description><![CDATA[Saturday 08:30 AM<br>Sammamish Presbyterian Church<br>22522 NE Inglewood Hill Rd, Sammamish WA 98074<br>building " BOX " across from church offices.<br>Handicap Access & Fragrance Free<br>Families, Friends, and Observers Welcome<br>Group Id:30671602]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.0396328,47.6155419,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>PEACEFUL WATERS AFG</name>
+      <description><![CDATA[Sunday 05:30 PM<br>St Paul's Episcopal Church- Parish Hall<br>2116 Walnut St, Bellingham WA 98225<br>Number 105<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30632854]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4916182,48.7584527,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>POULSBO STUDY GROUP AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>First Lutheran Church<br>18920 4th Ave NE, Poulsbo WA 98370<br>Families, Friends, and Observers Welcome<br>Group Id:30510316]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6437108,47.7339919,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>PROGRESS AFG</name>
+      <description><![CDATA[Sunday 07:00 PM<br>Elim Lutheran Church<br>15815 NE 182nd Ave, Brush Prairie WA 98606<br>Fireside room<br>Families and Friends Only<br>Group Id:52440]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4852327,45.7370416,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>PUYALLUP PARENTS AFG</name>
+      <description><![CDATA[Thursday 06:00 PM<br>Puyallup Lakeside Milam<br>405 W Stewart Ste A, Puyallup WA 98371<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Parents<br>Group Id:30625147]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2988613,47.1942440,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Parents and Friends AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>St Matthew Episcopal<br>123 L St NE, Auburn WA 98002<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Parents<br>Group Id:30543700]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2152519,47.3091472,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Paths To Recovery AFG</name>
+      <description><![CDATA[Friday 08:15 AM<br>Friday Harbor Presbyterian Church<br>425 Spring St, Friday Harbor WA 98250<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30540801]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.0191308,48.5322585,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Peace on Pines AFG</name>
+      <description><![CDATA[Tuesday 12:00 PM<br>Opportunity Christian Church<br>708 N Pines, Spokane Valley WA 99206<br>Handicap Access<br>Families and Friends Only<br>Group Id:30723998]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.2389249,47.6635725,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Personal Freedom Literature Study AFG</name>
+      <description><![CDATA[Sunday 10:00 AM<br>Olympic Memorial Hospital<br>939 Caroline St., Port Angeles WA 98362<br>Families and Friends Only<br>Group Id:30749747]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.4144823,48.1154826,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Practice Makes Progress Women AFG</name>
+      <description><![CDATA[Friday 07:00 PM<br>Wallingford Presbyterian Church<br>1414 N. 42nd Street, Seattle WA 98103<br>Enter back of church from parking lot.<br>Families, Friends, and Observers Welcome<br>Women<br>Group Id:30712924]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3400066,47.6582862,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>QUEEN ANNE AFG</name>
+      <description><![CDATA[Wednesday 08:00 PM<br>Queen Anne Lutheran Church<br>2400 8th Ave W, Seattle WA 98119<br>Families, Friends, and Observers Welcome<br>Group Id:14319]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3672840,47.6399021,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>QUEEN ANNE MIDDAY AFG</name>
+      <description><![CDATA[Monday 12:00 PM<br>First Free Methodist Church<br>3200 3rd Ave W, Seattle WA 98119<br>Temporary electronic meeting available during COVID-19 pandemic: Zoom;https://us02web.zoom.us/j/451694938?pwd=WHhLU1NmdzRHekNGb0ZvdE5icTc1dz09 To dial in: +1 346 248 7799 or +1 669 900 9128 US Park in rear. enter on north side. follow al-anon signs to glen room.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:62081]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3605392,47.6489678,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>RECOVERY SPOKEN HERE AFG</name>
+      <description><![CDATA[Saturday 06:30 PM<br>Summit United Methodist Church<br>5316 104th St E, Tacoma WA 98446<br>Meets on 4th saturday of month only.<br>Handicap Access & Smoking Permitted<br>Families, Friends, and Observers Welcome<br>Group Id:30620854]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3576774,47.1611565,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>RENTON MONDAY NIGHT AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Pritchard Hall<br>99 Wells Ave S, Renton WA 98057<br>Families, Friends, and Observers Welcome<br>Group Id:50914]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2059355,47.4829244,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>RENTON SATURDAY MORNING AFG</name>
+      <description><![CDATA[Saturday 10:30 AM<br>Valley Church<br>16431 SE Renton Issaquah Rd, Renton WA 98059<br>Room #207<br>Families and Friends Only<br>Group Id:37673]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1194208,47.4994877,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>RENTON THURSDAY NIGHT AFG</name>
+      <description><![CDATA[Thursday 07:30 PM<br>St Lukes Episcopal Church<br>99 Wells Ave S, Renton WA 98057<br>Meets in prichard hall<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:14286]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2058225,47.4830246,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>RENTON TUESDAY MORNING AFG</name>
+      <description><![CDATA[Tuesday 10:00 AM<br>First United Methodist Church<br>2201 NE 4th St, Renton WA 98056<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14290]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1894000,47.4879063,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>RICHMOND BEACH AFG</name>
+      <description><![CDATA[Monday 07:30 PM<br>Aurora Church Of The Nazarene<br>1900 N 175th St, Shoreline WA 98133<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14320]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3362500,47.7566228,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>ROCK COVE AFG</name>
+      <description><![CDATA[Tuesday 06:00 PM<br>United Methodist Church<br>35 NW Jefferson St, Stevenson WA 98648<br>Families, Friends, and Observers Welcome<br>Group Id:500478]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -121.8860059,45.6948087,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>ROCKY BOTTOM AFG</name>
+      <description><![CDATA[Saturday 09:00 AM<br>Immanuel Presbyterian Church<br>901 N J St, Tacoma WA 98403<br>Enter the church through the back door off parking lot<br>Families, Friends, and Observers Welcome<br>Group Id:30620540]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4621863,47.2649529,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Recovering Hope AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Graham Church Of Christ<br>9524 224th St E, Graham Washington 98338<br>Downstairs<br>Families, Friends, and Observers Welcome<br>Group Id:30723399]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3030218,47.0527740,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Redmond Friday Night AFG</name>
+      <description><![CDATA[Friday 07:30 PM<br>Faith Lutheran Church<br>9041 166th Ave NE, Redmond WA 98052<br>Meets in downstairs classroom; through aa room; The group is temporarily closed due to COVID-19 restrictions.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14285]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1205972,47.6826071,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Republic AFG</name>
+      <description><![CDATA[Wednesday 12:00 PM<br>Republic Presberytian Church<br>605 Beller Street, Republic WA 99169<br>Basement of Church<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:30596194]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -118.7378067,48.6482183,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Rochester Thursday Night AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>St. Mark's Lutheran Church<br>10000 Highway 12 SW, Rochester WA 98579<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30690259]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.0920636,46.8219895,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SAFE HAVEN OF HOPE AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Queen Of Angels Catholic Church<br>209 W 11th St, Port Angeles WA 98362<br>Temporary electronic meeting available during COVID-19 pandemic: Zoom;Meeting ID: 245 209 1535 Password: 782057 Meeting on ground floor on north side<br>Handicap Access & Fragrance Free<br>Families, Friends, and Observers Welcome<br>Group Id:14266]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.4440788,48.1117859,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SALMON BAY CANDLELIGHT AFG</name>
+      <description><![CDATA[Monday 07:30 PM<br>Ballard First Lutheran Church<br>2006 NW 65th St, Seattle WA 98117<br>Meets in havvik hall behind parking and house office<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:41889]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3825771,47.6761266,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SALTWATER AFG</name>
+      <description><![CDATA[Monday 06:30 PM<br>Saltwater Unitarian Universalist Church<br>25701 14th Pl S, Des Moines WA 98198<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30512485]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3156288,47.3719082,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SATURDAY AFG RECOVERY</name>
+      <description><![CDATA[Saturday 07:30 PM<br>Sand Point Community Church<br>4710 NE 70th St, Seattle WA 98115<br>Families and Friends Only<br>Group Id:42815]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2773739,47.6798021,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SATURDAY MORNING AFG</name>
+      <description><![CDATA[Saturday 10:00 AM<br>Vashon Presbyterian Church<br>17708 Vashon Hwy SW, Vashon WA 98070<br>Pull cord by door<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:30556459]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4600610,47.4460398,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SATURDAY MORNING EXPECT A MIRACLE AFG</name>
+      <description><![CDATA[Saturday 09:00 AM<br>Port Townsend Alano Club<br>1102 Water St Ste B, Port Townsend WA 98368<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:54056]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.7589413,48.1136937,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SATURDAY MORNING HOPE AFG</name>
+      <description><![CDATA[Saturday 09:30 AM<br>Lopez Island Family Resource Center<br>23 Pear Tree Ln, Lopez Island WA 98261<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:30583760]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.9137793,48.5260836,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SATURDAY MORNING OPEN BREAKFAST AFG</name>
+      <description><![CDATA[Saturday 09:30 AM<br>Trotter's Family Restaurant (Upstairs)<br>825 Harvey Rd, Auburn WA 98002<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:66395]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2152614,47.3156513,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SATURDAY MORNING SERENITY AFG</name>
+      <description><![CDATA[Saturday 10:30 AM<br>Friday Harbor Presbyterian Church<br>395 Spring St, Friday Harbor WA 98250<br>Families, Friends, and Observers Welcome<br>Group Id:30554941]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.0188778,48.5327443,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SATURDAY NIGHT ADULT CHILDREN AFG</name>
+      <description><![CDATA[Saturday 05:00 PM<br>Alano Club<br>1700 W 7th Ave, Spokane WA 99202<br>Room next to cafeteria<br>Handicap Access<br>Families and Friends Only<br>Adult Children<br>Group Id:63992]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4374173,47.6494757,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SEA OF SERENITY AFG</name>
+      <description><![CDATA[Saturday 10:30 AM<br>St John's Lutheran Church<br>2530 Cornwall Ave, Bellingham WA 98225<br>Beginner meeting first 30 minutes of Meeting. Meeting located in basement of church.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30518193]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4746746,48.7640056,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SEARCH FOR SERENITY AFG</name>
+      <description><![CDATA[Saturday 10:30 AM/Saturday 10:30 AM<br>Alano Club Of Eastside<br>12302 NE 8th St, Bellevue WA 98005<br>Meets with main Al-Anon meeting than breaks<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Beginners<br>Held in the Annex at rear of Alano Club<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:24759]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1766834,47.6177300,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SEATTLE MEN'S AFG</name>
+      <description><![CDATA[Friday 07:30 PM<br>Northminster Presbyterian Church<br>7706 25th Ave NW, Seattle WA 98117<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Men<br>Group Id:30582130]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3884026,47.6853090,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SEEDS OF HOPE AFG</name>
+      <description><![CDATA[Thursday 12:00 PM<br>Bayside Community Church<br>25992 Barber Cut Off Road NE, Kingston WA 98346<br>Enter through back parking lot, thru double doors. Follow signs<br>Families, Friends, and Observers Welcome<br>Group Id:30618593]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5082369,47.7991096,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SERENITY AT LAST AFG</name>
+      <description><![CDATA[Monday 07:30 PM<br>Gateway Point Business Park<br>2601 Jahn Ave., Gig Harbor WA 98335<br>Suite A-10<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:66817]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5629879,47.2821195,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SERENITY IN SNOQUALMIE AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>St Clare Episcopal Church<br>8650 Railroad Ave, Snoqualmie WA 98065<br>Left side room<br>Families, Friends, and Observers Welcome<br>Group Id:30657168]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -121.8206553,47.5230780,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SERENITY SEEKERS AFG</name>
+      <description><![CDATA[Wednesday 06:00 PM<br>Boy Scout Building<br>8478 W Gage Blvd, Kennewick WA 99336<br>Downstairs<br>Families and Friends Only<br>Group Id:52701]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -119.2342445,46.2274476,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SERENITY SEEKERS AFG</name>
+      <description><![CDATA[Monday 06:00 PM<br>Rodeo City Bbq<br>204 N Main St, Ellensburg WA 98926<br>Parking in front. Look for Alanon sign hanging on door.<br>Handicap Access<br>Families and Friends Only<br>Group Id:38627]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.5480359,46.9937107,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SERENITY SEEKERS AFG</name>
+      <description><![CDATA[Thursday 12:00 PM<br>Unity Church<br>2900 S Bernard St, Spokane WA 99203<br>Main door from parking lot - small chapel<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14356]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4174655,47.6275904,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SERENITY STATION AFG</name>
+      <description><![CDATA[Monday 06:00 PM<br>Arlington Free Methodist Church<br>730 E Highland Dr, Arlington WA 98223<br>Park in back and use back door<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30534876]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1186174,48.1875843,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SHARING OUR HORIZONS AFG</name>
+      <description><![CDATA[Saturday 06:30 PM<br>St. Johns Lutheran Church<br>8602 Bridgeport Way SW, Lakewood WA 98499<br>Speaker meeting second saturday of month<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:53680]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5188203,47.1794220,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SHARING OUR STRENGTH AFG</name>
+      <description><![CDATA[Saturday 09:00 AM<br>Serenity Hall<br>2609 Jahn Ave NW, Gig Harbor WA 98335<br>A10 serenity hall<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:500913]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5617742,47.2820372,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SHELTON AFG</name>
+      <description><![CDATA[Friday 12:00 PM<br>St David's Episcopal Church<br>324 W Cedar St, Shelton WA 98584<br>Families, Friends, and Observers Welcome<br>Group Id:53658]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.1027959,47.2149721,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SILVANA SERENITY AFG</name>
+      <description><![CDATA[Wednesday 10:30 AM<br>Peace Lutheran Church<br>1717 Ole Larson Rd, Silvana WA 98287<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30659155]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2556797,48.2026319,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SILVERDALE TUESDAY NOON AFG</name>
+      <description><![CDATA[Tuesday 12:00 PM<br>Silverdale Lutheran Church<br>11701 Ridgepoint Dr NW, Silverdale WA 98383<br>Annex Building in Room 27<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:46864]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6681186,47.6696291,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SKAGIT SERENITY AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Mount Vernon Senior Center<br>1401 Cleveland Ave, Mount Vernon WA 98273<br>Use front door of senior center - in craft room<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30567900]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3394746,48.4116952,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SNOHOMISH WED NIGHT AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>St John's Episcopal Church<br>913 2nd St, Snohomish WA 98290<br>Handicap Access<br>Families and Friends Only<br>Group Id:14252]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.0937508,47.9126022,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SOUND AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>Redeemer Lutheran Church<br>1001 Princeton St, Fircrest WA 98466<br>Families, Friends, and Observers Welcome<br>Group Id:14395]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5164003,47.2400703,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SOUND SERENITY AFG</name>
+      <description><![CDATA[Thursday 12:30 PM<br>Grace Lutheran Church<br>22975 24th Ave S, Des Moines WA 98198<br>Sidedoor at the north end of the church<br>Handicap Access<br>Families and Friends Only<br>Group Id:45476]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3014469,47.3964475,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SOUTH SOUND STEPPERS AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM/Friday 07:00 PM<br>Gloria Del Lutheran Church<br>1515 Harrison Ave NW, Olympia WA 98502<br>Families, Friends, and Observers Welcome<br>Group Id:30518101]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.9207564,47.0454484,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SPANAWAY AFG</name>
+      <description><![CDATA[Saturday 02:00 PM<br>Spanaway Hall<br>26418 Mountain Hwy E, Spanaway WA 98387<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:501780]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3699602,47.0159160,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SPIRITUAL JOURNEY AFG</name>
+      <description><![CDATA[Monday 06:00 PM<br>La Conner Retirement Inn<br>204 N 1st St, La Conner WA 98257<br>Meeting is in Activity room to the left of the registration desk<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30505942]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4953476,48.3933445,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>STANWOOD AFG</name>
+      <description><![CDATA[Thursday 07:30 PM<br>Stanwood United Methodist Church<br>27128 102nd Dr. NW, Stanwood WA 98292<br>Handicap Access & Smoking Permitted<br>Families, Friends, and Observers Welcome<br>Group Id:31577]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3719440,48.2427909,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>STEP BY STEP SPIRITUAL JOURNEY AFG</name>
+      <description><![CDATA[Tuesday 12:15 PM<br>Hope Covenant Church<br>4502 Rucker Ave, Everett WA 98203<br>Meeting room 201<br>Handicap Access & Child Care<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:30655370]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2113287,47.9580655,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>STEPPING STONES AFG</name>
+      <description><![CDATA[Saturday 12:00 PM<br>Church Of The Good Shepherd<br>805 SE Ellsworth Rd, Vancouver WA 98664<br>Meets in classroom in rear of building; sign language twice a month.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:38131]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5605097,45.6153288,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>STEPS 2 SERENITY AFG</name>
+      <description><![CDATA[Wednesday 05:30 PM<br>St. Bede's Episcopal Church<br>1578 SE Lider Rd., Port Orchard WA 98366<br>Basement<br>Families, Friends, and Observers Welcome<br>Group Id:30631718]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6325876,47.4859190,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>STEPS BY THE BAY AFG</name>
+      <description><![CDATA[Wednesday 06:30 PM<br>Little Brown Church Of Blyn<br>220 Zaccardo Rd, Sequim WA 98382<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30577260]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.9946318,48.0215903,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>STEPS TO RECOVERY AFG</name>
+      <description><![CDATA[Wednesday 05:30 PM<br>Unity Church<br>401 S 8th Ave, Yakima WA 98902<br>Entry from door in back by parking lot<br>Families, Friends, and Observers Welcome<br>Group Id:23873]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.5172116,46.5938392,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>STEPS TO SERENITY AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>Des Moines United Methodist Church<br>22225 9th Ave S, Des Moines WA 98198<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:65354]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3224371,47.4022373,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>STRONG TIES AFG</name>
+      <description><![CDATA[Wednesday 12:00 PM<br>Emmanuel Lutheran Church<br>639 Elm St, Cheney WA 99004<br>Enter through lower door (down the stairs) on the back (north) side of Emmanuel Lutheran Church<br>Handicap Access<br>Families and Friends Only<br>Group Id:51284]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.5771686,47.4930302,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SUMMIT DAYTIME AFG</name>
+      <description><![CDATA[Monday 09:30 AM<br>Our Savior Lutheran Church<br>4519 112th St E, Tacoma WA 98446<br>Families, Friends, and Observers Welcome<br>Group Id:42221]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3679518,47.1552586,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SUMMIT VIEW UNITY AFG</name>
+      <description><![CDATA[Friday 07:00 PM<br>Summit United Methodist Church<br>5316 104th St E, Tacoma WA 98446<br>Please use back parking lot and enter building using back door only. Meeting is upstairs to the left. AA Meeting at same time<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30518192]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3577631,47.1611806,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SUNDAY AM FRESH START AFG</name>
+      <description><![CDATA[Sunday 08:30 AM<br>Uw School Of Social Work<br>4101 15th Ave NE, Seattle WA 98105<br>3rd floor. Sign language 1st, 3rd & 5th Sundays<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:43260]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3124370,47.6571410,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SUNDAY CANDLE LIGHT AFG</name>
+      <description><![CDATA[Sunday 07:00 PM<br>St Patricks Church<br>1320 W Henry St, Pasco WA 99301<br>In church office on west side of church<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:38778]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -119.1086347,46.2364369,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SUNDAY MORNING AFG</name>
+      <description><![CDATA[Sunday 10:30 AM<br>Alano Club<br>1700 W 7th Ave, Spokane WA 99204<br>Handicap Access<br>Families and Friends Only<br>Group Id:14363]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4372184,47.6496440,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>SUNDAY SERENITY FOR ADULT CHILDREN AFG</name>
+      <description><![CDATA[Sunday 08:30 AM<br>Parish House , Dungeness Valley Lutheran Church<br>925 N Sequim Ave, Sequim WA 98382<br>parish house<br>Fragrance Free<br>Families, Friends, and Observers Welcome<br>Adult Children<br>Group Id:30522689]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.1034167,48.0920361,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Search for Serenity AFG</name>
+      <description><![CDATA[Thursday 05:15 PM<br>The Cove 2<br>3rd Ave, Twisp WA 98856<br>Families, Friends, and Observers Welcome<br>Group Id:30717929]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.1208539,48.3643614,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Searchers For Serenity AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>Catholic Trinity Center<br>327 Edmonds St, Omak WA 98841<br>Meets at the narcotics anonymous meeting hall<br>Handicap Access<br>Families and Friends Only<br>Group Id:44349]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -119.5197992,48.4060914,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Serenity Refresher AFG</name>
+      <description><![CDATA[Monday 12:00 PM<br>Seattle Downtown YMCA<br>909 4th Ave., Seattle WA 98104<br>This meeting begins at 12:05 PM and lasts until 12:50 PM.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:47697]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3327792,47.6054633,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Serenity Sisters Womens AFG</name>
+      <description><![CDATA[Tuesday 12:00 PM<br>Westminster Presbyterian Church<br>1300 9th St, Anacortes WA 98221<br>Use m street entrance.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Women<br>Group Id:60554]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6178734,48.5153132,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Serenity by the Lake AFG</name>
+      <description><![CDATA[Monday 01:30 PM<br>Liberty Lake Community Library<br>23123 E.Mission, Liberty Lake WA 99019<br>( No meeting on Federal Monday Holidays)<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30702809]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.0941804,47.6717453,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Serenity on Tuesday AFG</name>
+      <description><![CDATA[Tuesday 06:30 PM<br>St Mark's Lutheran Church<br>2109 College St SE, Lacey WA 98503<br>Park in back - look for "Clean Kids" sign<br>Families, Friends, and Observers Welcome<br>Group Id:30614484]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.8244438,47.0285471,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Silver Lake Serenity AFG</name>
+      <description><![CDATA[Friday 05:30 PM<br>Cedar Cross United Methodist Church<br>1210 132nd St SE, Mill Creek WA 98012<br>Enter through main doors.go straight to end of hallway,turn right,first door on right is meeting<br>Handicap Access<br>Families and Friends Only<br>Group Id:64286]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2157614,47.8774135,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Sisters in Serenity AFG</name>
+      <description><![CDATA[Monday 11:30 AM<br>Catherine Place<br>923 South 8th Street, Tacoma WA 98405<br>Street parking, enter through black iron front gate. Three doors, meet in dining room. bag lunch encouraged.<br>Families and Friends Only<br>Women<br>Group Id:30710872]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4507353,47.2554852,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Solutions of Serenity AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>Immanuel Lutheran Church<br>1020 S A St, Moses Lake WA 98837<br>Church Library<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:28725]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -119.2823900,47.1234367,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Sunday Nooners AFG</name>
+      <description><![CDATA[Sunday 12:00 PM<br>Alano Club Of The Eastside<br>12302 NE 8th St, Bellevue WA 98005<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30608906]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1766690,47.6176376,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Sunday Spiritual Awakening AFG</name>
+      <description><![CDATA[Sunday 08:00 AM<br>Manchester-Kitsap Regional Library<br>8067 E Main St, Manchester WA 98353<br>Temporary electronic meeting during COVID-19 pandemic. For meeting information, email SundaySpiritualAwakening@gmail.com<br>Families, Friends, and Observers Welcome<br>Group Id:62036]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5453788,47.5559008,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Sunrise Super Glory AFG</name>
+      <description><![CDATA[Friday 09:00 AM/Friday 08:30 AM<br>Sudden Valley -South Whatcom Library Building<br>10 Barnview Ct, Bellingham WA 98229<br>Meeting Room ( SW corner)<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Book study at 8:30am before the 9AM meeting.<br>Families and Friends Only<br>Group Id:30523017]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3238949,48.7143290,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Sunset AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Woodland Park Methodist Church<br>302 N 78th St, Seattle WA 98103<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14327]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3549039,47.6857472,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TACOMA ALL MEN'S AFG</name>
+      <description><![CDATA[Monday 07:30 PM<br>St Andrews Episcopal Church<br>7410 S. 12th St, Tacoma WA 98465<br>Handicap Access<br>Families and Friends Only<br>Men<br>Group Id:49643]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5365112,47.2495963,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TACOMA ALL WOMEN AFG</name>
+      <description><![CDATA[Monday 05:30 PM<br>Redeemer Lutheran Church<br>1001 Princeton St, Fircrest WA 98466<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Women<br>Group Id:30520977]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5164754,47.2400612,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TACOMA DAYTIME AFG</name>
+      <description><![CDATA[Wednesday 10:00 AM<br>Good Shepherd Lutheran Church<br>140 E 56th St, Tacoma WA 98404<br>Families and Friends Only<br>Group Id:14378]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4290214,47.2058950,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TERRACE VIEW AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>Gloria Dei Lutheran Church<br>3215 Larch Way, Lynnwood WA 98036<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30760]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2772162,47.8087412,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TGIF AFG</name>
+      <description><![CDATA[Friday 08:00 PM<br>Maplewood Presbyterian Church<br>19523 84th Ave W, Edmonds WA 98026<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14171]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3460639,47.8219665,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TGIF AFG</name>
+      <description><![CDATA[Friday 12:30 PM<br>Congregational Church<br>73 S Palouse St, Walla Walla WA 99362<br>Families, Friends, and Observers Welcome<br>Group Id:30519327]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -118.3332528,46.0680780,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TGIF AFG</name>
+      <description><![CDATA[Friday 07:00 PM<br>Columbia Presbyterian Church<br>805 Columbia Ridge Dr., Vancouver WA 98664<br>Dowstairs, follow signs.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:27880]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5810974,45.6148169,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TGIM AFG</name>
+      <description><![CDATA[Monday 10:00 AM<br>First Lutheran Community Church<br>2483 Mitchell Rd SE, Port Orchard WA 98366<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:38244]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6290130,47.5258709,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TGIM AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>St Lukes Episcopal Church<br>428 King St, Wenatchee WA 98801<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14167]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.3177064,47.4220887,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>THE 3 C's AFG</name>
+      <description><![CDATA[Thursday 12:15 PM<br>Harbor Life Church<br>4417 56th St. NW, Gig Harbor WA 98335<br>Handicap Access<br>Families and Friends Only<br>Group Id:30518847]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5984651,47.3097232,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>THINK ABOUT IT FRIDAY NIGHT AFG</name>
+      <description><![CDATA[Friday 06:30 PM<br>Our Lady Of Lourdes Church<br>1111 W Fremont Ave, Selah WA 98942<br>Families and Friends Only<br>Group Id:35433]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.5450737,46.6567469,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>THURSDAY NIGHT BOOK STUDY AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>Presbyterian Church<br>1630 NE Stadium Way, Pullman WA 99163<br>Handicap Access<br>Families and Friends Only<br>Group Id:30604780]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.1598707,46.7366273,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>THURSDAY NIGHT HILLTOPPERS AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>Kennewick First Lutheran Church<br>418 N Yelm St, Kennewick WA 99336<br>Room 8<br>Handicap Access<br>Families and Friends Only<br>Group Id:27256]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -119.1501324,46.2141957,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>THURSDAY NIGHT IN FRIDAY HARBOR AFG</name>
+      <description><![CDATA[Thursday 06:30 PM<br>St David's Gryphon Hall<br>760 Park St, Friday Harbor WA 98250<br>Building to the right of church<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14192]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.0257043,48.5348557,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>THURSDAY NIGHT WOMEN'S ADULT CHILDREN AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>St Andrew Lutheran Church<br>5607 NE Gher Rd, Vancouver WA 98662<br>Room 1<br>Families and Friends Only<br>Women Adult Children<br>Group Id:503404]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5596782,45.6641058,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>THURSDAY NITE AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>Gonzaga University<br>502 E Boone Ave, Spokane WA 99258<br>Gonzaga University, College Hall, Room 134 or 234 - varies.<br>Handicap Access<br>Families and Friends Only<br>Group Id:66478]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4015208,47.6664473,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>THURSDAY NOON EAST BREMERTON AFG</name>
+      <description><![CDATA[Thursday 12:00 PM<br>Holy Trinity Catholic Church<br>4215 Pine Rd NE, Bremerton WA 98310<br>Educational wing 12<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:62033]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6409277,47.6039025,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TOUCHSTONE MEN'S AFG</name>
+      <description><![CDATA[Sunday 09:00 AM<br>405 E Holly St<br>Bellingham WA 98225<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Men<br>Group Id:30648948]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4894588,48.7562157,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TRUST THE PROCESS AFG</name>
+      <description><![CDATA[Thursday 06:00 PM<br>First Christian Church Of Bremerton-Disciples Of Christ<br>811 Veneta Ave, Bremerton WA 98337<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:503174]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6387731,47.5693767,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TUES FIVE PLUS AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>Messiah Lutheran Church<br>905 NW 94th St, Vancouver WA 98665<br>Basement<br>Families and Friends Only<br>Group Id:60546]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6808499,45.6891905,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TUESDAY AFTERNOON AFG</name>
+      <description><![CDATA[Tuesday 01:30 PM<br>Sinto Senior Center<br>1124 W Sinto Ave, Spokane WA 99201<br>In the basement<br>Families and Friends Only<br>Group Id:14367]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4292963,47.6705328,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TUESDAY BOOK STUDY AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>Kennewick First Lutheran Church<br>418 N Yelm St, Kennewick WA 99336<br>Room 5<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:502883]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -119.1500947,46.2140547,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TUESDAY HOW IT WORKS AFG</name>
+      <description><![CDATA[Tuesday 08:15 AM<br>Friday Harbor Presbyterian Church<br>425 Spring St, Friday Harbor WA 98250<br>Handicap Access<br>Families and Friends Only<br>Group Id:30522557]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.0191839,48.5325001,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TUESDAY MEN'S STAG AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>Alano Club<br>1700 W 7th Street, Spokane WA 99204<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Men<br>Group Id:30665418]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4371457,47.6494405,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TUESDAY MORNING AFG</name>
+      <description><![CDATA[Tuesday 10:00 AM<br>Immanuel Lutheran Church<br>1020 S A St, Moses Lake WA 98837<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:36348]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -119.2826094,47.1233652,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TUESDAY MORNING REFLECTIONS IN SNOHOMISH AFG</name>
+      <description><![CDATA[Tuesday 09:30 AM<br>Christ The King Lutheran Church<br>1305 Pine Ave, Snohomish WA 98290<br>Enter at front of building<br>Handicap Access & Child Care<br>Families, Friends, and Observers Welcome<br>Group Id:30536645]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.0843975,47.9284168,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TUESDAY NIGHT GRATITUDE AFG</name>
+      <description><![CDATA[Tuesday 07:30 PM<br>Redmond United Methodist<br>16540 NE 80th St, Redmond WA 98052<br>Families, Friends, and Observers Welcome<br>Beginners<br>Group Id:52374]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.1195216,47.6750675,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TUESDAY NIGHT LIVING THE LEGACIES AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>Prichard Hall<br>99 Wells Ave S, Renton WA 98057<br>Families and Friends Only<br>Group Id:30629713]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2056742,47.4830887,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TUESDAY REBOOT AFG - WEST SEATTLE</name>
+      <description><![CDATA[Tuesday 12:30 PM<br>The Fauntleroy Church<br>9140 California Ave. SW, Seattle WA 98136<br>Library, Fourth floor<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30619812]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3870212,47.5210487,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TUESDAY UNITY AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>Lutheran Church Of The Good Shepherd<br>2116 E Union St, Seattle WA 98122<br>Families, Friends, and Observers Welcome<br>Group Id:30592290]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3040952,47.6132341,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>TWISP FRIDAY MORNING AFG</name>
+      <description><![CDATA[Friday 08:30 AM<br>Twisp Masonic Lodge #240<br>77 E 4th Ave, Twisp WA 98856<br>Families and Friends Only<br>Group Id:30653452]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.1213134,48.3635034,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>The Other Meeting AFG</name>
+      <description><![CDATA[Tuesday 12:30 PM<br>Golden Sands Assisted Living<br>21608 O Ln, Ocean Park WA 98640<br>Please call before coming Conference Room<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30678526]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -124.0511839,46.4583778,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Tuesday 12 Step Study AFG</name>
+      <description><![CDATA[Tuesday 12:00 PM<br>Manito United Methodist Church<br>3220 S. Grand Avenue, Spokane WA 99203<br>Room 207<br>Families, Friends, and Observers Welcome<br>Group Id:30719019]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.4024664,47.6247463,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Tuesday Serenity AFG</name>
+      <description><![CDATA[Tuesday 12:00 PM<br>Garfield Christian Fellowship<br>303 North 3rd, Garfield Washington 99130<br>Handicap Access<br>Families and Friends Only<br>Group Id:30726965]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.1417561,47.0088771,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>UNDERSTANDING VOICES AFG</name>
+      <description><![CDATA[Wednesday 06:30 PM<br>Lakewood United Methodist<br>6900 Steilacoom Blvd SW, Lakewood WA 98499<br>Educational building. upstairs<br>Families, Friends, and Observers Welcome<br>Group Id:66546]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5293400,47.1762477,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>UNIVERSITY PLACE DAYTIME AFG</name>
+      <description><![CDATA[Tuesday 10:00 AM<br>University Place Presbyterian Church<br>8101 27th St W, University Place WA 98466<br>Rear main entrance at parking lot<br>Handicap Access<br>Families and Friends Only<br>Beginners<br>Group Id:51813]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5460888,47.2356962,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>UPPER VALLEY AFG</name>
+      <description><![CDATA[Monday 07:00 PM<br>United Methodist Church<br>418 Evans St, Leavenworth WA 98826<br>Families, Friends, and Observers Welcome<br>Group Id:53655]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.6623959,47.5972653,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>UPWARD BOUND AGAIN AFG</name>
+      <description><![CDATA[Saturday 10:00 AM<br>Genesis Global Spirituality Center<br>233 S 156th St, Burien WA 98148<br>Meets in fireside room.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14331]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3297402,47.4627286,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>VASHON ISLAND WOMEN'S AFG</name>
+      <description><![CDATA[Tuesday 06:30 PM<br>Episcopal Church<br>15420 Vashon Hwy SW, Vashon WA 98070<br>Fragrance Free<br>Families, Friends, and Observers Welcome<br>Women<br>Group Id:502955]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4598553,47.4667657,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>VASHON SUNDAY SIDE UP AFG</name>
+      <description><![CDATA[Sunday 09:00 AM<br>Vashon Presbyterian Church<br>17708 Vashon Hwy SW, Vashon WA 98070<br>Meeting upstairs in belfry<br>Fragrance Free<br>Families, Friends, and Observers Welcome<br>Group Id:30043]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4598843,47.4461574,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>VIEW RIDGE OPEN AFG</name>
+      <description><![CDATA[Tuesday 07:30 PM<br>Wedgwood Presbyterian Church<br>8008 35th Ave NE, Seattle WA 98115<br>Park and enter upper floor in back of building<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:41334]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2901968,47.6868904,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>VOICES OF HOPE AFG</name>
+      <description><![CDATA[Saturday 07:00 PM<br>Faith Episcopal Church<br>20295 Little Valley Rd. NE, Poulsbo WA 98370<br>Second saturday of the month<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30522687]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6392828,47.7479605,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WE CAN AFG</name>
+      <description><![CDATA[Wednesday 12:00 PM<br>Colville Community Church<br>930 S Elm St, Colville WA 99114<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:48852]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.9024613,48.5356581,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WEDNESDAY AFG LUNCH BREAK</name>
+      <description><![CDATA[Wednesday 12:00 PM<br>Dungeness Valley Lutheran Church<br>925 N Sequim Ave, Sequim WA 98382<br>Church parish house<br>Handicap Access & Fragrance Free<br>Families, Friends, and Observers Welcome<br>Group Id:52824]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.1032961,48.0921602,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WEDNESDAY AWAKENINGS AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Central Washington Hospital<br>1201 S Miller, Wenatchee WA 98801<br>Meeting room J & K<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:47076]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -120.3214286,47.4067059,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WEDNESDAY BACK TO BASICS AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Besthesda Lutheran Church<br>23406 56th Ave W, Mountlake Terrace WA 98043<br>Meeting located in church office building (white brick); parking in back.<br>Families, Friends, and Observers Welcome<br>Group Id:501477]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3086940,47.7859228,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WEDNESDAY MORNING SUNSHINE AFG</name>
+      <description><![CDATA[Wednesday 10:30 AM<br>Light Of Christ Lutheran Church<br>2400 SW 344th St, Federal Way WA 98023<br>Child Care<br>Families and Friends Only<br>Group Id:25474]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3649336,47.2938453,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WEDNESDAY NIGHT AFG STUDY GROUP</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Pullman Presbyterian Church<br>1630 NE Stadium Way, Pullman WA 99163<br>Enter from parking lot, go down hall to right, first room on left: library room 207<br>Handicap Access<br>Families and Friends Only<br>Group Id:48023]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.1600805,46.7364640,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WEDNESDAY NOON AFG</name>
+      <description><![CDATA[Wednesday 12:00 PM<br>First Congregational Church<br>73 S Palouse St, Walla Walla WA 99362<br>Upstairs<br>Families, Friends, and Observers Welcome<br>Group Id:52474]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -118.3332594,46.0679633,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WEDNESDAY NOON AFG</name>
+      <description><![CDATA[Wednesday 12:00 PM<br>St Francis Catholic Church<br>425 Price St, Friday Harbor WA 98250<br>Meeting room<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:45082]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -123.0247085,48.5320901,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WEDNESDAY NOON AFG</name>
+      <description><![CDATA[Wednesday 12:00 PM<br>East Hills Alliance Church<br>1405 Burcham St, Kelso WA 98626<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:14206]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.8968112,46.1502721,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WEDNESDAY NOON NEWPORT AFG</name>
+      <description><![CDATA[Wednesday 12:00 PM<br>American Lutheran Church<br>332801 Highway 2, Newport WA 99156<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30558120]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -117.0702842,48.1734617,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WEDNESDAY'S WOMEN AFG</name>
+      <description><![CDATA[Wednesday 07:00 PM<br>Kirkland Congregational Church<br>106 5th Ave, Kirkland WA 98033<br>Second floor. room 21<br>Child Care<br>Families and Friends Only<br>Women<br>Group Id:64991]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2081164,47.6791780,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WHERE THE HEART IS AFG</name>
+      <description><![CDATA[Sunday 11:00 AM<br>Key Peninsula Community Service Building<br>17015 9th St Kp N, Lakebay WA 98349<br>Meets in Senior Center<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30660660]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.8056578,47.2489747,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WOMEN ADULT CHILDREN SURVIVAL TO RECOVERY AFG</name>
+      <description><![CDATA[Monday 01:30 PM<br>Church Of The Good Shephard<br>805 SE Ellsworth Rd, Vancouver WA 98664<br>Room 5, behind main church building.<br>Handicap Access<br>Families and Friends Only<br>Women Adult Children<br>Group Id:500466]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.5604604,45.6155742,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WOMEN LIVING IN FOCUS AFG</name>
+      <description><![CDATA[Thursday 06:30 PM<br>Fauntleroy Church<br>9140 California Ave SW, Seattle WA 98136<br>Handicap Access & Child Care<br>Families and Friends Only<br>Women<br>Group Id:44646]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3869502,47.5210464,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WOMEN OF COURAGE AFG</name>
+      <description><![CDATA[Tuesday 07:00 PM<br>St Pauls Episcopal Church<br>323 Catherine St, Walla Walla WA 99362<br>On corner of catherine st.and birch. if doors locked:ring bell or call cell # posted on glass door.<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Women<br>Group Id:62622]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -118.3327830,46.0651978,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WOMEN'S LITERATURE STUDY AFG</name>
+      <description><![CDATA[Wednesday 10:00 AM<br>Port Townsend Community Center<br>620 Tyler Street, Port Townsend WA 98368<br>Tyler St entrance, pass reception, end of hall go left, 1st right. Literature Study<br>Handicap Access & Fragrance Free<br>Families and Friends Only<br>Women<br>Group Id:30534488]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.7598853,48.1173357,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WOMEN'S SERENITY CIRCLE AFG</name>
+      <description><![CDATA[Thursday 12:00 PM<br>Port Townsend Community Center<br>620 Tyler St, Port Townsend WA 98368<br>Handicap Access & Fragrance Free<br>Families and Friends Only<br>Women<br>Group Id:501727]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.7599884,48.1171470,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>WOMENS SUNDAY MEETING AFG</name>
+      <description><![CDATA[Sunday 08:30 AM<br>Hadlock Fellowship Hall<br>51 Chimacum Road, Port Hadlock WA 98339<br>Fragrance Free<br>Families and Friends Only<br>Women Beginners<br>Group Id:30608578]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.7586063,48.0311488,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Waves of Recovery AFG</name>
+      <description><![CDATA[Sunday 06:00 PM<br>North Beach Senior Center<br>885 Ocean Shores Blvd. NW, Ocean Shores WA 98569<br>Meeting is held in the rear of building. Parking is on the side of the building and in the back<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Group Id:30719888]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -124.1651279,47.0162185,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>West Seattle Saturday Morning AFG</name>
+      <description><![CDATA[Saturday 08:30 AM<br>St. John's Episcopal<br>3050 California Ave SW, Seattle WA 98116<br>Located at the Parish Hall<br>Handicap Access & Child Care<br>Families, Friends, and Observers Welcome<br>Group Id:37671]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3861912,47.5758849,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Yes AFG</name>
+      <description><![CDATA[Friday 07:00 PM<br>United Lutheran Church<br>1231 S 76th St, Tacoma WA 98408<br>Handicap Access<br>Families and Friends Only<br>Group Id:37373]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.4518671,47.1889107,0
+        </coordinates>
+      </Point>
+    </Placemark>    <Placemark>
+      <name>Young Folks AFG</name>
+      <description><![CDATA[Thursday 07:00 PM<br>Clark College: Foster Hall Room 108<br>1933 Fort Vancouver Way, Vancouver WA 98663<br>Clark College Foster Hall Room 108<br>Handicap Access<br>Families, Friends, and Observers Welcome<br>Young Adults<br>Group Id:30707954]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6502812,45.6346831,0
+        </coordinates>
+      </Point>
+    </Placemark>  </Document>
+</kml>

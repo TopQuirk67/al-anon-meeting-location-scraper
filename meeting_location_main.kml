@@ -1,0 +1,10 @@
+    <Placemark>
+      <name>{}</name>
+      <description><![CDATA[{}]]></description>
+      <styleUrl>#icon-1899-{}</styleUrl>
+      <Point>
+        <coordinates>
+          {},{},0
+        </coordinates>
+      </Point>
+    </Placemark>
